@@ -17,6 +17,49 @@
 
  */
 /* <button> css reset */
+address {
+  text-align: right;
+  
+}
+address span, address span i {
+  color: #fff !important
+}
+.about {
+  background: #fff !important;
+}
+input[type="name"], input[type="email"], input[type="input"], input[type="tel"] {
+  background: #1e2329 !important;
+  border: #1e2329 !important;
+  color: #fff !important;
+}
+button.submit {
+  background: none !important;
+  border: 2px solid #fff !important;
+  margin: 20px 0 0;
+}
+#contact {
+  background: #121619 !important;
+  color: #fff !important;
+}
+#contact h2 {
+  text-transform: uppercase;
+  margin: 0;
+}
+#contact h3 {
+  text-transform: uppercase;
+}
+.clients {
+  margin: 1px 0 0;
+  background: #fff !important; 
+}
+.logo2 {
+  position: absolute;
+      bottom: 25px;
+      left: -320px;
+      right: 0;
+      margin: 0 auto;
+      width: 210px;
+}
 .pswp__button {
   width: 44px;
   height: 44px;

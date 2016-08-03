@@ -144,12 +144,12 @@ h6 {
   overflow-x: hidden;
   padding-top: 100px; }
 
-.gradient {
-  -webkit-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));
-  -ms-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));
-  -moz-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));
-  -o-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));
-  background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95)); }
+/*.gradient {
+  /*-webkit-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));*/
+  /*-ms-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));*/
+  /*-moz-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));*/
+  /*-o-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));*/
+  /*background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95)); }*/
 
 /* ------------------------------------- */
 /* Home ................... */

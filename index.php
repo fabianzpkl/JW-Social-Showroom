@@ -19,18 +19,20 @@
             <!-- Your logo -->
   			    <img src="img/logo.png" alt="" class="main-logo" />
 
-            <div class="h-content">
+            <!--<div class="h-content">
               <h1>Discussing future trends in e-commerce and digital.</h1>
               <h4>2ND AUGUST MELBOURNE, VICTORIA</h4>
-            </div>
+            </div>-->
 
             <ul class="social_icons">
               <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-              <li><a href="#"><i class="ion-social-twitter"></i></a></li>
               <li><a href="#"><i class="ion-social-instagram"></i></a></li>
-              <li><a href="#"><i class="ion-social-linkedin"></i></a></li>
-              <li><a href="#"><i class="ion-social-youtube"></i></a></li>
+              <li><a href="#"><i class="ion-social-twitter"></i></a></li>
             </ul>
+
+            <div class="logo2">
+              <img src="img/logo-marriot.png">
+            </div>
 
           </div>
 
@@ -43,14 +45,14 @@
 
               <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
           			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
+          			<a  href="img/foto-01.jpg" itemprop="contentUrl" data-size="600x600">
           				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
+          				<img src="img/foto-01.jpg" itemprop="thumbnail" class="img-responsive" />
           			</a>
           			<!-- Picture's description below this one -->
           			<figcaption itemprop="caption description">
           				<div class="photo-details">
-                    <h4>Art Gallery</h4>
+                    <h4>Lorem Ipsum Dolor</h4>
           					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
           				</div>
           			</figcaption>
@@ -58,14 +60,14 @@
 
           		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
           			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
+          			<a  href="img/foto-02.jpg" itemprop="contentUrl" data-size="600x600">
           				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
+          				<img src="img/foto-02.jpg" itemprop="thumbnail" class="img-responsive" />
           			</a>
           			<!-- Picture's description below this one -->
           			<figcaption itemprop="caption description">
           				<div class="photo-details">
-                    <h4>Ink</h4>
+                    <h4>Lorem Ipsum Dolor</h4>
           					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
           				</div>
           			</figcaption>
@@ -73,14 +75,14 @@
 
           		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
           			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
+          			<a  href="img/foto-03.jpg" itemprop="contentUrl" data-size="600x600">
           				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
+          				<img src="img/foto-03.jpg" itemprop="thumbnail" class="img-responsive" />
           			</a>
           			<!-- Picture's description below this one -->
           			<figcaption itemprop="caption description">
           				<div class="photo-details">
-                    <h4>Design</h4>
+                    <h4>Lorem Ipsum Dolor</h4>
           					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
           				</div>
           			</figcaption>
@@ -88,14 +90,14 @@
 
           		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
           			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
+          			<a  href="img/foto-04.jpg" itemprop="contentUrl" data-size="600x600">
           				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
+          				<img src="img/foto-04.jpg" itemprop="thumbnail" class="img-responsive" />
           			</a>
           			<!-- Picture's description below this one -->
           			<figcaption itemprop="caption description">
           				<div class="photo-details">
-                    <h4>Tower</h4>
+                    <h4>Lorem Ipsum Dolor</h4>
           					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
           				</div>
           			</figcaption>
@@ -103,14 +105,14 @@
 
           		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
           			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
+          			<a  href="img/foto-05.jpg" itemprop="contentUrl" data-size="600x600">
           				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
+          				<img src="img/foto-05.jpg" itemprop="thumbnail" class="img-responsive" />
           			</a>
           			<!-- Picture's description below this one -->
           			<figcaption itemprop="caption description">
           				<div class="photo-details">
-                    <h4>Mirror</h4>
+                    <h4>Lorem Ipsum Dolor</h4>
           					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
           				</div>
           			</figcaption>
@@ -118,14 +120,14 @@
 
           		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
           			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
+          			<a  href="img/foto-06.jpg" itemprop="contentUrl" data-size="600x600">
           				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
+          				<img src="img/foto-06.jpg" itemprop="thumbnail" class="img-responsive" />
           			</a>
           			<!-- Picture's description below this one -->
           			<figcaption itemprop="caption description">
           				<div class="photo-details">
-                    <h4>Coffee</h4>
+                    <h4>Lorem Ipsum Dolor</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
           				</div>
           			</figcaption>
@@ -133,44 +135,14 @@
 
               <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
           			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
+          			<a  href="img/foto-07.jpg" itemprop="contentUrl" data-size="600x600">
           				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
+          				<img src="img/foto-07.jpg" itemprop="thumbnail" class="img-responsive" />
           			</a>
           			<!-- Picture's description below this one -->
           			<figcaption itemprop="caption description">
           				<div class="photo-details">
-                    <h4>Plant</h4>
-          					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
-
-              <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-                    <h4>Art</h4>
-          					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
-
-              <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-12">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/600x600.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/600x600.jpg" itemprop="thumbnail" alt="This is my work" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-          					<h4>Statue</h4>
+                    <h4>Lorem Ipsum Dolor</h4>
           					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
           				</div>
           			</figcaption>
@@ -179,193 +151,51 @@
           	</div>
           </div>
 
-          <div id="subscribe">
-            <h2>Stay tunned we're coming this year</h2>
-            <div class="mb100" id="clock" data-date="2016/08/02 12:00:00"></div>
-
-            <form
-            id="subscribe-form"
-            action="http://coderare.us12.list-manage.com/subscribe/post-json?u=112a29375b248b89f47be54b7&amp;id=e46717ab68"
-            method="get">
-              <input type="email" name="EMAIL" class="input-email" value="" placeholder="Fill Your Email Address Here...">
-              <input type="submit" name="subscribe" class="submit button-light input-submit" value="Subscribe">
-              <div id="subscribe-result"></div>
-            </form>
-          </div>
-
-          <div class="about">
-            <h2>Get started fast with one of our unique, pre-built concepts.</h2>
-            <p>
-              Customers love our block-based approach to template building,
-              it makes assembling beautiful pages fast and enjoyable, leaving
-               more time to craft your perfect layout. love our block-based
-              approach to template building, it makes assembling beautiful pages
-              fast and enjoyable, leaving more time to craft your perfect layout.
-            </p>
-
-            <p>
-              Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.
-            </p>
-
-            <div class="service row">
-
-              <div class="col-sm-4 col-xs-4">
-                <div class="feature">
-                  <span class="upper_icon" aria-hidden="true">
-                    <i class="ion-wand"></i>
-                  </span>
-                  <span class="lower_icon">
-                    <i class="ion-wand"></i>
-                    <h6>DESIGN</h6>
-                  </span>
-                </div>
-              </div>
-
-              <div class="col-sm-4 col-xs-4">
-                <div class="feature">
-                  <span class="upper_icon" aria-hidden="true">
-                    <i class="ion-cube"></i>
-                  </span>
-                  <span class="lower_icon">
-                    <i class="ion-cube"></i>
-                    <h6>CODING</h6>
-                  </span>
-                </div>
-              </div>
-
-              <div class="col-sm-4 col-xs-4">
-                <div class="feature">
-                  <span class="upper_icon">
-                    <i class="ion-arrow-graph-up-right"></i>
-                  </span>
-                  <span class="lower_icon">
-                    <i class="ion-arrow-graph-up-right"></i>
-                    <h6>MARKETING</h6>
-                  </span>
-                </div>
-              </div>
-
-
-            </div>
-          </div>
-
-          <div class="team">
-            <h2>Meet our delightful panel of speakers</h2>
-            <p>
-              Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.
-            </p>
-
+           <div class="clients">
             <div class="row">
-              <div class="member col-sm-4 col-xs-12">
-                <div class="member-img">
-                  <img src="img/member.jpg" alt="This is my work" class="img-responsive"/>
-
-                  <div class="member-overlay">
-                    <a href="#"><i class="icon ion-social-facebook"></i></a>
-                    <a href="#"><i class="icon ion-social-twitter"></i></a>
-                    <a href="#"><i class="icon ion-social-instagram"></i></a>
-                  </div>
-
-                </div>
-
-                <div class="member-info">
-                  <h5>PATRICK STENSON</h5>
-                  <h6>(Design Director)</h6>
-                </div>
-              </div>
-
-              <div class="member col-sm-4 col-xs-12">
-                <div class="member-img">
-                  <img src="img/member.jpg" alt="This is my work" class="img-responsive"/>
-
-                  <div class="member-overlay">
-                    <a href="#"><i class="icon ion-social-facebook"></i></a>
-                    <a href="#"><i class="icon ion-social-twitter"></i></a>
-                    <a href="#"><i class="icon ion-social-instagram"></i></a>
-                  </div>
-
-                </div>
-
-                <div class="member-info">
-                  <h5>PATRICK STENSON</h5>
-                  <h6>(Design Director)</h6>
-                </div>
-              </div>
-
-              <div class="member col-sm-4 col-xs-12">
-                <div class="member-img">
-                  <img src="img/member.jpg" alt="This is my work" class="img-responsive"/>
-
-                  <div class="member-overlay">
-                    <a href="#"><i class="icon ion-social-facebook"></i></a>
-                    <a href="#"><i class="icon ion-social-twitter"></i></a>
-                    <a href="#"><i class="icon ion-social-instagram"></i></a>
-                  </div>
-
-                </div>
-
-                <div class="member-info">
-                  <h5>PATRICK STENSON</h5>
-                  <h6>(Design Director)</h6>
-                </div>
-              </div>
-
-            </div>
-
-          </div>
-
-          <div class="clients">
-            <div class="row">
-              <div class="client col-sm-3 col-xs-3">
+              <div class="client col-sm-4 col-xs-4">
                 <img src="img/client1.png" alt="client">
               </div>
 
-              <div class="client col-sm-3 col-xs-3">
+              <div class="client col-sm-4 col-xs-4">
                 <img src="img/client2.png" alt="client">
               </div>
 
-              <div class="client col-sm-3 col-xs-3">
+              <div class="client col-sm-4 col-xs-4">
                 <img src="img/client3.png" alt="client">
               </div>
 
-              <div class="client col-sm-3 col-xs-3">
+              <div class="client col-sm-4 col-xs-4">
                 <img src="img/client4.png" alt="client">
+              </div>
+              <div class="client col-sm-4 col-xs-4">
+                <img src="img/client5.png" alt="client">
               </div>
             </div>
           </div>
 
-          <div id="contact" class="row">
-              <h2>Get in <strong>touch</strong>, we'd love to hear from you.</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+          <div class="about">
+            <h2><strong>ROSA CLARA</strong></h2>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
 
-              <address class="row">
-                <span class="col-sm-6 col-xs-12">
-                  <i class="ion-location"></i>
-                  1355 Market Street, Suite 900
-                  San Francisco, CA 94103
-                </span>
-                <span class="col-sm-6 col-xs-12">
-                  <i class="ion-ios-telephone"></i>
-                  (123) 456-7890
-                </span>
-                <span class="col-sm-6 col-xs-12">
-                  <i class="ion-email"></i>
-                  hello@Code Rarecom
-                </span>
-              </address>
+          </div>         
+
+          <div id="contact" class="row">
+              <h2><strong>Ingresa tus datos</strong></h2>
+              <h3>Y participa en nuestro sorteo</h3>
+
+              
 
               <form id="contact_form" class="row"  action="<?php echo "http://" . $_SERVER['SERVER_NAME'] .  '/JW-Social-Showroom/registro.php'; ?>" method="POST" >
-                <div class="col-sm-6 col-xs-12">
-                  <label>Nombre Completo</label>
-                  <input type="name" name="name_user" class="input-name">
-                  <label>Correo Electrónico</label>
-                  <input type="email" name="email_user" class="input-email">
+                <div class="col-sm-12 col-xs-12">
+                  <input type="name" name="name_user" class="input-name" placeholder="Nombre Completo">
+                  <input type="email" name="email_user" class="input-email" placeholder="Correo Electrónico">
                 </div>
-                <div class="col-sm-6 col-xs-12">
-                  <label>Número Celular</label>
-                  <input type="tel" name="tel_user" class="input-name">
-                  <label>Usuario de twitter, Facebook o Instagram</label>
-                  <input type="input" name="user_social" class="input-name">
+                <div class="col-sm-12 col-xs-12">
+                  <input type="tel" name="tel_user" class="input-name" placeholder="Número Celular">
+                  <input type="input" name="user_social" class="input-name" placeholder="Usuario de twitter, Facebook o Instagram">
                 </div>
                 
                 <div class="col-sm-12 col-xs-12">
@@ -380,10 +210,20 @@
           </div>
 
           <footer>
-            <p class="uppercase">© Deft - Made With Love <i class="ion-heart"></i></p>
-            <div class="drag">
-              <i class="up ion-arrow-up-c"></i>
-            </div>
+            <address class="row">
+              <span class="col-sm-12 col-xs-12">
+                Calle 73, #8-60 Bogotá
+                <i class="ion-location"></i>
+              </span>
+              <span class="col-sm-12 col-xs-12">
+                (1) 4816000
+                <i class="ion-ios-telephone"></i>
+              </span>
+              <span class="col-sm-12 col-xs-12">
+                info@jwbogota.com
+                <i class="ion-email"></i>
+              </span>
+            </address>
           </footer>
 
         </div>
