@@ -324,7 +324,9 @@
               <li id="project10">
                 <div class="project_content">
                   <h2>ROSA CLARÁ</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum sollicitudin accumsan. Etiam orci eros, lobortis sit amet sollicitudin sed, pharetra at nunc.
+                  <p>Rosa Clará es el fruto de un sueño. Cuando tras una larga trayectoria profesional en el mundo de la moda nupcial, advirtió que el sector estaba perdiendo uno de sus rasgos definitorios esenciales: la moda. Comprendió entonces que tenía una importante labor que llevar a cabo: aportar al sector más creatividad, más innovación, más diseño, en definitiva, más moda.
+Emprendió junto a un grupo de profesionales un camino repleto de retos, algunas dificultades, pero también oportunidades, y tras un intenso trabajo llegaron enseguida los primeros éxitos. Con mucha ilusión, nuevas ideas, apostando por la creatividad, y una exquisita atención a la calidad, logramos crear unas atractivas e innovadoras colecciones que enseguida cautivaron a los mercados nacionales e internacionales.
+Hoy Rosa Clará es una empresa consolidada, en constante expansión, con presencia en los cinco continentes, y un referente en el sector.
                   </p>
                 </div>
               </li>
@@ -338,22 +340,21 @@
               <li id="project12">
                 <div class="project_content">
                   <h2>VIOLINES EN CONCIERTO</h2>
-                  <p>Violines en Concierto: 
-                  Ceremonias, Recepciones, Eventos Sociales y Empresariales
+                  <p>Ceremonias, Recepciones, Eventos Sociales y Empresariales
                   </p>
                 </div>
               </li>
               <li id="project13">
                 <div class="project_content">
                   <h2>DJ NICOLAS ROJAS</h2>
-                  <p>Producción en equipos y musicalización de actividades de entretenimiento.
+                  <p>Disc Jockey Bogotano, en el movimiento DJ desde comienzos de la década de los noventas, siendo DJ residente de las discotecas más importantes de Colombia. Actualmente se encuentra trabajando como Disc Jockey en Bodas y eventos privados, también comparte su música todos los jueves en el programa el lamparazo de La W Radio.
                   </p>
                 </div>
               </li>
               <li id="project14">
                 <div class="project_content">
                   <h2>FLORES EXITO</h2>
-                  <p>Entregamos sentimientos y buenos deseos!!
+                  <p>Entregamos sentimientos y buenos deseos
                   </p>
                 </div>
               </li>
@@ -397,6 +398,15 @@
               </div>
               <div class="client col-sm-3 col-xs-3">
                 <img src="img/client11.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client12.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client13.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client14.png" alt="client">
               </div>
             </div>
           </div>
