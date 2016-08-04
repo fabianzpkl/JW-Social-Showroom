@@ -459,7 +459,7 @@ Hoy Rosa Clará es una empresa consolidada, en constante expansión, con presenc
                 <i class="ion-ios-telephone"></i>
               </span>
               <span class="col-sm-12 col-xs-12">
-                info@jwbogota.com
+                mercadeo.marriottcolombia@r-hr.com
                 <i class="ion-email"></i>
               </span>
             </address>
