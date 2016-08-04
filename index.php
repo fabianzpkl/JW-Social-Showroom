@@ -20,7 +20,7 @@
           <div id="home" class="gradient">
             <!-- Your logo -->
   			    <img src="img/logo.png" alt="" class="main-logo" />
-            <a href="#" class="btn_scroll">Quiero Participar</a>
+            <a href="" class="btn_scroll" id="ir_a_inscribirese">Quiero Participar</a>
 
             <!--<div class="h-content">
               <h1>Discussing future trends in e-commerce and digital.</h1>
@@ -28,9 +28,9 @@
             </div>-->
 
             <ul class="social_icons">
-              <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-              <li><a href="#"><i class="ion-social-instagram"></i></a></li>
-              <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+              <li><a href="http://www.facebook.com/jwmarriottbogota" target="_blank"><i class="ion-social-facebook"></i></a></li>
+              <li><a href="http://instagram.com/JWMarriottBog" target="_blank"><i class="ion-social-instagram"></i></a></li>
+              <li><a href="http://twitter.com/JWMarriottBog" target="_blank"><i class="ion-social-twitter"></i></a></li>
             </ul>
 
             <div class="logo2">
@@ -417,12 +417,13 @@
 
               <form id="contact_form" class="row"  action="<?php echo "http://" . $_SERVER['SERVER_NAME'] .  '/registro.php'; ?>" method="POST" >
                 <div class="col-sm-12 col-xs-12">
-                  <input type="name" name="name_user" class="input-name" placeholder="Nombre Completo" required>
+                  <input type="name" id="name_user" name="name_user" class="input-name" placeholder="Nombre Completo" required>
                   <input type="email" name="email_user" class="input-email" placeholder="Correo Electrónico" required>
                 </div>
                 <div class="col-sm-12 col-xs-12">
                   <input type="tel" name="tel_user" class="input-name" placeholder="Número Celular" required>
                   <input type="input" name="user_social" class="input-name" placeholder="Usuario de twitter, Facebook o Instagram">
+                   <input type="input" name="tipo_evento" class="input-name" placeholder="¿Qué tipo de evento busca?">
                 </div>
                 
                 <div class="col-sm-12 col-xs-12">
@@ -534,9 +535,27 @@
       <script src="js/jquery.isloading.js"></script>
       <script src="js/jquery.colorbox-min.js"></script>
       <script src="js/jquery.validate.js"></script>
+      <script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
+      
 
       <script type="text/javascript">
+
+
         $(document).on('ready',function(){
+
+          
+
+          /*$(document).on('click','.social_icons > li',function(e){
+            e.preventDefault();
+            $(this).trigger();
+          });*/
+
+          $(document).on('click','#ir_a_inscribirese',function(e){
+            e.preventDefault();
+            //$.scrollTo('#send_form_social_show', 1500);
+            $('#send_form_social_show').focus();
+          });
+  
 
           $("#contact_form").validate({
             rules: {

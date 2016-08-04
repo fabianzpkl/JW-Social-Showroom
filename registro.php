@@ -13,14 +13,16 @@
 	$email_user = $_POST['email_user'];
 	$tel_user = $_POST['tel_user'];
 	$user_social = $_POST['user_social'];
+	$tipo_evento = $_POST['tipo_evento'];
 
-	$mysqli = new mysqli('localhost', 'root', '', 'jw_social_show_room');
+	//$mysqli = new mysqli('localhost', 'root', '', 'jw_social_show_room');
+	$mysqli = new mysqli('localhost', 'theplace_jw_soci', '7N3lkTXLP-Gt', 'theplace_jw_social_show_room');
 
     if ($mysqli->connect_errno) {
 	    die('No se pudo conectar: ' . $mysqli->connect_error);
     }
 
-    $sql = "INSERT INTO usuarios(name_user, email_user, tel_user, user_social, register_date) VALUES('$name_user', '$email_user', '$tel_user','$user_social', '$register_date')";
+    $sql = "INSERT INTO usuarios(name_user, email_user, tel_user, user_social, register_date,tipo_evento) VALUES('$name_user', '$email_user', '$tel_user','$user_social', '$register_date','$tipo_evento')";
 
     if ($resultado = $mysqli->query($sql)) {
    
@@ -30,6 +32,7 @@
 					" Nombre: ". $_POST['name_user'].'<br>'.
 					" Email: ". $_POST['email_user'].'<br>'.
 					" Teléfono: ". $_POST['tel_user'].'<br>'.
+					" Tipo de evento que busca: ". $_POST['tipo_evento'].'<br>'.				
 					" Usuario red social: ". $_POST['user_social'].'<br>';
 
 		$template .= "<br>";
