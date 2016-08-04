@@ -17,9 +17,43 @@
 
  */
 /* <button> css reset */
+h2, h3 {
+  letter-spacing: 2px;
+}
 address {
   text-align: right;
   
+}
+.clients img {
+  filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
+  filter: Gray(); /* IE4-8 and 9 */
+  -webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+.clients img:hover {
+  -webkit-filter: grayscale(0%);
+  -moz-filter: grayscale(0%);
+  -ms-filter: grayscale(0%);
+  -o-filter: grayscale(0%);
+  filter: grayscale(0%); /* Para cuando es estándar funcione en todos */
+}
+.btn_scroll {
+  background: #2d2d2d;
+  padding: 10px 12px;
+  text-transform: uppercase;
+  left: 5%;
+  position: absolute;
+  top: 255px;
+  letter-spacing: 2px;
+  font-size: 15px;
 }
 address span, address span i {
   color: #fff !important

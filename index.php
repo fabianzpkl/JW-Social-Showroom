@@ -20,6 +20,7 @@
           <div id="home" class="gradient">
             <!-- Your logo -->
   			    <img src="img/logo.png" alt="" class="main-logo" />
+            <a href="#" class="btn_scroll">Quiero Participar</a>
 
             <!--<div class="h-content">
               <h1>Discussing future trends in e-commerce and digital.</h1>
@@ -42,136 +43,360 @@
 
         <div id="rightSide">
 
-          <div class="swipe_portfolio">
-          	<div class="my-gallery row" itemscope itemtype="http://schema.org/ImageGallery">
+          <div class="project container-fluid">
+            <ul class="gallery project_navigation">
+              <div class="grid-sizer  col-xs-4"></div>
+              <li class="item col-sm-8 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-01.jpg" alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>GLORIA DE SANTANA</h4>
+                    </div>
+                    <a href="#project1" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
 
-              <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/foto-01.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/foto-01.jpg" itemprop="thumbnail" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-                    <h4>Lorem Ipsum Dolor</h4>
-          					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-02.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>LUXURY CARDS</h4>
+                    </div>
+                    <a href="#project2" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
 
-          		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/foto-02.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/foto-02.jpg" itemprop="thumbnail" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-                    <h4>Lorem Ipsum Dolor</h4>
-          					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-03.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>CINDY GONZALES</h4>
+                    </div>
+                    <a href="#project3" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
 
-          		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/foto-03.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/foto-03.jpg" itemprop="thumbnail" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-                    <h4>Lorem Ipsum Dolor</h4>
-          					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-04.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>PAULA ESCOBAR</h4>
+                    </div>
+                    <a href="#project4" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
 
-          		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/foto-04.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/foto-04.jpg" itemprop="thumbnail" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-                    <h4>Lorem Ipsum Dolor</h4>
-          					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
+              <li class="item col-sm-8 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-05.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>ARTEVISION</h4>
+                    </div>
+                    <a href="#project5" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
 
-          		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/foto-05.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/foto-05.jpg" itemprop="thumbnail" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-                    <h4>Lorem Ipsum Dolor</h4>
-          					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-06.jpg"  alt="This is my work" class="img img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>GLADYS DE CASTAÑEDA</h4>
+                    </div>
+                    <a href="#project6" class="view">VER MÁS</a>
 
-          		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/foto-06.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/foto-06.jpg" itemprop="thumbnail" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-                    <h4>Lorem Ipsum Dolor</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
+                  </figcaption>
+                </figure>
+              </li>
 
-              <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="item col-sm-4 col-xs-6">
-          			<!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
-          			<a  href="img/foto-07.jpg" itemprop="contentUrl" data-size="600x600">
-          				<!-- Your picture -->
-          				<img src="img/foto-07.jpg" itemprop="thumbnail" class="img-responsive" />
-          			</a>
-          			<!-- Picture's description below this one -->
-          			<figcaption itemprop="caption description">
-          				<div class="photo-details">
-                    <h4>Lorem Ipsum Dolor</h4>
-          					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-          				</div>
-          			</figcaption>
-          		</figure>
+              <li class="item col-sm-8 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-01.jpg" alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>FC PRODUCCIONES</h4>
+                    </div>
+                    <a href="#project7" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
 
-          	</div>
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-02.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>EVENTOS CON ARTE & DISEÑO</h4>
+                    </div>
+                    <a href="#project8" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
+
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-03.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>GRUPO MONTECARLO</h4>
+                    </div>
+                    <a href="#project9" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
+
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-04.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>ROSA CLARÁ</h4>
+                    </div>
+                    <a href="#project10" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
+
+              <li class="item col-sm-8 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-05.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>DJ DIEGO SANCHEZ</h4>
+                    </div>
+                    <a href="#project11" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
+
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-06.jpg"  alt="This is my work" class="img img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>VIOLINES EN CONCIERTO</h4>
+                    </div>
+                    <a href="#project12" class="view">VER MÁS</a>
+
+                  </figcaption>
+                </figure>
+              </li>
+
+              <li class="item col-sm-8 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-01.jpg" alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>DJ NICOLAS ROJAS</h4>
+                    </div>
+                    <a href="#project13" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
+
+              <li class="item col-sm-4 col-xs-12">
+                <figure>
+                  <!-- Your picture -->
+                  <img src="img/foto-02.jpg"  alt="This is my work" class="img-responsive" />
+                  <!-- Picture's description below this one -->
+                  <figcaption class="caption">
+                    <div class="photo-details">
+                      <h4>FLORES EXITO</h4>
+                    </div>
+                    <a href="#project14" class="view">VER MÁS</a>
+                  </figcaption>
+                </figure>
+              </li>
+
+
+            </ul>
+
+            <ul class="project_info">
+              <li id="project1">
+                <div class="project_content">
+
+                  <h2>GLORIA DE SANTANA</h2>
+                  <span>La Esencia del sabor en una Dulce combinación con el Diseño.</span>
+                  <p>Somos una empresa dedicada a la elaboración de Ponqués para eventos sociales y empresariales, establecida bajo los más altos estándares de calidad desde la materia prima hasta el producto terminado, con una amplia experiencia de más de 25 años y con la misión de ofrecer a nuestros clientes la mayor calidad en el servicio, diseños exclusivos y un sabor inigualable.
+
+                  </p>
+                </div>
+              </li>
+
+              <li id="project2">
+                <div class="project_content">
+                  <h2>LUXURY CARDS</h2>
+                  <p>Luxury Cards es la reconocida firma de diseño personalizado de invitaciones, papelería para bodas, accesorios  y eventos corporativos.
+                  Así mismo, como expertos en diseño, asesoramos a empresas en el manejo de marca e imagen corporativa, proyectándoles las herramientas necesarias para su posicionamiento en el mercado.
+
+                  </p>
+                </div>
+              </li>
+
+              <li id="project3">
+                <div class="project_content">
+                  <h2>CINDY GONZALES</h2>
+                  <p>Asesoría en Planeación y Organización de Bodas y Eventos.
+                  </p>
+                </div>
+              </li>
+
+              <li id="project4">
+                <div class="project_content">
+                  <h2>PAULA ESCOBAR</h2>
+                  <p>Trabajamos Cumpliendo los sueños de nuestros clientes de la mano de un gran equipo, donde diseñamos y producimos eventos integrales, haciéndolos exclusivos y memorables.
+                  </p>
+                </div>
+              </li>
+
+              <li id="project5">
+                <div class="project_content">
+                  <h2>ARTEVISION</h2>
+                  <p>Fotografía y video de eventos sociales.
+                  </p>
+                </div>
+              </li>
+
+              <li id="project6">
+                <div class="project_content">
+                  <h2>GLADYS DE CASTAÑEDA</h2>
+                  <p>Elaboramos los más finos, elegantes y exclusivos Ponqués de Bogotá. Ponqués Gladys de Castañeda es una empresa con más de 35 años de experiencia en la elaboración y decoración de Ponqué fino para ceremonias y eventos especiales.
+                  </p>
+                </div>
+              </li>
+              <li id="project7">
+                <div class="project_content">
+                  <h2>FC PRODUCCIONES</h2>
+                  <p>Fotografía y video para todo tipo de eventos sociales y empresariales.
+                  </p>
+                </div>
+              </li>
+              <li id="project8">
+                <div class="project_content">
+                  <h2>EVENTOS CON ARTE & DISEÑO</h2>
+                  <p>Eventos con arte y diseño es una empresa que con la ayuda de un equipo de diseñadores y planificadores de eventos conseguiremos con nuestros clientes  que todas las expectativas  soñadas para su evento se logren, creando así eventos únicos.
+                  </p>
+                </div>
+              </li>
+              <li id="project9">
+                <div class="project_content">
+                  <h2>GRUPO MONTECARLO</h2>
+                  <p>Montecarlo es un grupo de corte clásico y canto lírico.  Ellos son especialistas en el acompañamiento musical de ceremonias religiosas exclusivamente.  Para novios que quieran resaltar el rito como eje central y de gran importancia en su unión matrimonial.  Generalmente están acompañados de su grupo instrumental de cuerdas, lo cual da como resultado melodías que realmente llegan a lo profundo del corazón.  El repertorio es muy amplio desde la música sacra en latín, hasta famosas arias de opera y zarzuela que interpretan en la recepción de invitados a la fiesta. Su sello personal es solemnidad, elegancia y gran impacto. ¡Música que enamora!
+                  </p>
+                </div>
+              </li>
+              <li id="project10">
+                <div class="project_content">
+                  <h2>ROSA CLARÁ</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum sollicitudin accumsan. Etiam orci eros, lobortis sit amet sollicitudin sed, pharetra at nunc.
+                  </p>
+                </div>
+              </li>
+              <li id="project11">
+                <div class="project_content">
+                  <h2>DJ DIEGO SANCHEZ</h2>
+                  <p>Una opción de lujo para sus eventos,  a su servicio un productor reconocido  y galardonado en los premios ZIWA como el mejor en el area de música y animación, elegido por el portal internacional de bodas Zankyou como "el mejor Dj Para realizar una boda" en 2015, pioneros en el concepto de fiestas con diseño para que sus montajes sean bellos, espectaculares y modernos.
+                  </p>
+                </div>
+              </li>
+              <li id="project12">
+                <div class="project_content">
+                  <h2>VIOLINES EN CONCIERTO</h2>
+                  <p>Violines en Concierto: 
+                  Ceremonias, Recepciones, Eventos Sociales y Empresariales
+                  </p>
+                </div>
+              </li>
+              <li id="project13">
+                <div class="project_content">
+                  <h2>DJ NICOLAS ROJAS</h2>
+                  <p>Producción en equipos y musicalización de actividades de entretenimiento.
+                  </p>
+                </div>
+              </li>
+              <li id="project14">
+                <div class="project_content">
+                  <h2>FLORES EXITO</h2>
+                  <p>Entregamos sentimientos y buenos deseos!!
+                  </p>
+                </div>
+              </li>
+            </ul>
           </div>
 
            <div class="clients">
             <div class="row">
-              <div class="client col-sm-4 col-xs-4">
+              <div class="client col-sm-3 col-xs-3">
                 <img src="img/client1.png" alt="client">
               </div>
 
-              <div class="client col-sm-4 col-xs-4">
+              <div class="client col-sm-3 col-xs-3">
                 <img src="img/client2.png" alt="client">
               </div>
 
-              <div class="client col-sm-4 col-xs-4">
+              <div class="client col-sm-3 col-xs-3">
                 <img src="img/client3.png" alt="client">
               </div>
 
-              <div class="client col-sm-4 col-xs-4">
+              <div class="client col-sm-3 col-xs-3">
                 <img src="img/client4.png" alt="client">
               </div>
-              <div class="client col-sm-4 col-xs-4">
+              <div class="client col-sm-3 col-xs-3">
                 <img src="img/client5.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client6.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client7.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client8.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client9.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client10.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client11.png" alt="client">
               </div>
             </div>
           </div>
