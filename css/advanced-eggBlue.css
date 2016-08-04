@@ -142,7 +142,7 @@ h6 {
   width: 50%;
   height: 100%;
   overflow-x: hidden;
-  padding-top: 100px; }
+  /*padding-top: 100px;*/ }
 
 /*.gradient {
   /*-webkit-background: linear-gradient(270deg, rgba(7, 190, 184, 0.25), rgba(7, 190, 184, 0.95));*/

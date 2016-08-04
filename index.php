@@ -412,9 +412,9 @@ Hoy Rosa Clará es una empresa consolidada, en constante expansión, con presenc
           </div>
 
           <div class="about">
-            <h2><strong>ROSA CLARA</strong></h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <h2><strong>JW Social Showroom Bogotá, 2016</strong></h2>
+            <p>          
+              Los hoteles JW Marriott Bogotá y Marriott Bogotá, reunirán en un solo lugar las más recientes tendencias en diseño, moda y gastronomía para bodas y eventos sociales junto a las marcas más representativas del sector. La cita será este 20 de agosto en el hotel JW Marriott Bogotá (Calle 73 # 8-60) de 10am a 8pm. Una oportunidad única, creada por Marriott International bajo el concepto One Stop to Buy. Tener el evento de tus sueños es posible, tan solo #ImagínaloInolvidable.
             </p>
 
           </div>         
