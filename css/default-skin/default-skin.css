@@ -17,6 +17,11 @@
 
  */
 /* <button> css reset */
+.main-thumb {
+  width: 80%  !important;
+  display: block;
+  margin: 0 auto;
+}
 h2, h3 {
   letter-spacing: 2px;
 }

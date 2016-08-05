@@ -8,6 +8,7 @@
       <link href="css/advanced-eggBlue.css" rel="stylesheet" type="text/css" media="all"/>
       <link href="css/isloading.css" rel="stylesheet" type="text/css" />
       <link href="css/colorbox.css" rel="stylesheet" type="text/css" />
+      <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
       <section class="animsition">
@@ -29,7 +30,7 @@
 
             <ul class="social_icons">
               <li><a href="http://www.facebook.com/jwmarriottbogota" target="_blank"><i class="ion-social-facebook"></i></a></li>
-              <li><a href="http://instagram.com/JWMarriottBog" target="_blank"><i class="ion-social-instagram"></i></a></li>
+              <li><a href="http://instagram.com/JWMarriottBog" target="_blank"><i class="fa fa-instagram"></i></a></li>
               <li><a href="http://twitter.com/JWMarriottBog" target="_blank"><i class="ion-social-twitter"></i></a></li>
             </ul>
 
