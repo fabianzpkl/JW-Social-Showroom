@@ -34,11 +34,11 @@
 													<tr>
 														<td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#fff; font-weight:bold;" valign="middle">
 
-															MARRIOTT Cali<br>
+															JW MARRIOTT Bogotá<br>
 
-															Avenida 8N 10-18, barrio Granada, Cali-Colombia<br>
+															Calle 73, #8-60 Bogotá<br>
 
-															+57 (2) 485 4545
+															+57 (1) 4816000
 
 														</td>
 													</tr>

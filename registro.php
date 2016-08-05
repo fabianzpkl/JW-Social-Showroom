@@ -46,8 +46,12 @@
 
 		$template_atleta = file_get_contents("mailrelay_template_header.php");
 
-		$template_atleta .= $_POST['name_user']." <br> JW Marriott te da la bienvenida al JW Social Showroom".
-							"Síguenos en nuestras redes sociales y visita nuestro sitio oficial  y continúa preparándote para un día inolvidable.<br>";
+		$template_atleta .= "¡".$_POST['name_user'].", gracias por tu suscripción!<br><br>".
+		"Estás a pocos días de conocer los pequeños y grandes detalles que pueden hacer de tu evento una fecha única. Queremos ser tu aliado para que puedas tener el evento de tu sueños, tan solo <strong>#ImagínaloInolvidable</strong>.<br><br>".
+		"Te esperamos este 20 de agosto en el hotel <strong>JW Marriott Bogotá</strong> (Calle 73 # 8-60) de 10am a 8pm, para compartir las más recientes tendencias en diseño, moda y gastronomía para bodas y eventos sociales junto a las marcas más representativas del mercado. Este día sabrás los resultados de nuestro sorteo y los beneficios especiales que tendremos para ti.<br><br>".
+		"Será un día para pensar en grande, para imaginarlo inolvidable.<br><br>".
+		"Diana Arévalo".
+		"Wedding Planner  |  JW Marriott Bogotá";
 
 		$template_atleta .= file_get_contents("mailrelay_template_footer.php");
 		// envio de correo al atleta

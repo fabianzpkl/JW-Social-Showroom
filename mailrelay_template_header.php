@@ -39,7 +39,7 @@
 											<table style="background:#111;" align="center" border="0" cellpadding="0" cellspacing="0" width="580">
 												<tbody>
 													<tr>
-														<td align="center" valign="top"><img alt="" src="http://golf.theplacetobecolombia.com/img/logo_social_showroom.png" style="width: 100%" /></td>
+														<td align="center" valign="top"><img alt="" src="http://eventos.theplacetobecolombia.com/img/logo.png" style="width: 100%" /></td>
 													</tr>
 												</tbody>
 											</table>

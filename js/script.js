@@ -76,7 +76,10 @@ Copyright (C) 2016 Coderare
         n++;
       }
       html += '</ul>';
-      element.innerHTML = html;
+      if (element!=null) {
+        element.innerHTML = html;
+      }
+      
   }
 
     twitterFetcher.fetch(config);
@@ -90,7 +93,9 @@ $( document ).ready(function() {
 /* ------------------------------------- */
 /* Page Loading    ................... */
 /* ------------------------------------- */
-  $(".animsition").animsition({    inClass: 'fade-in',
+
+  $(".animsition").animsition({
+    inClass: 'fade-in',
     outClass: 'fade-out',
     inDuration: 1500,
     outDuration: 800,
@@ -124,7 +129,8 @@ $( document ).ready(function() {
       });
     });
 
- /* ------------------------------------- */
+
+ /* ------------------------------------- */
  /* Project Gallery   ................... */
  /* ------------------------------------- */
  $(function() {
@@ -132,6 +138,32 @@ $( document ).ready(function() {
    function showContent(e, element, navigation, info, img, close) {
      var eventTarget = e.target.hash;
      var imgSrc = $(e.target).parents('figure').children('img').attr('src');
+
+     e.preventDefault();
+     $(element).addClass('show');
+
+     $(info).find('li').removeClass('is-visible');
+     $(info).find("li"+eventTarget).addClass('is-visible');
+
+     $(navigation).siblings(".project_info").children('li'+eventTarget).children('img.main-thumb').attr('src', imgSrc);
+   }
+
+   function showContent_img(e, element, navigation, info, img, close) {
+     var eventTarget = $(e.target).siblings('.caption').children('.view').attr('href');
+     var imgSrc = $(e.target).attr('src');
+
+     e.preventDefault();
+     $(element).addClass('show');
+
+     $(info).find('li').removeClass('is-visible');
+     $(info).find("li"+eventTarget).addClass('is-visible');
+
+     $(navigation).siblings(".project_info").children('li'+eventTarget).children('img.main-thumb').attr('src', imgSrc);
+   }
+
+   function showContent_figcaption(e, element, navigation, info, img, close) {
+     var eventTarget = $(e.target).children('.view').attr('href');
+     var imgSrc = $(e.target).siblings('img').attr('src');
 
      e.preventDefault();
      $(element).addClass('show');
@@ -160,7 +192,11 @@ $( document ).ready(function() {
 
      $(projectNavigation).on('click', function(event) {
        if ( event.target.tagName.toLowerCase() === 'a' ) {
-         showContent(event, project, projectNavigation, projectInfo, projectImg, closeButton);
+          showContent(event, project, projectNavigation, projectInfo, projectImg, closeButton);
+       }else if( event.target.tagName.toLowerCase() === 'img' ){
+          showContent_img(event, project, projectNavigation, projectInfo, projectImg, closeButton);
+       }else if(event.target.tagName.toLowerCase() === 'figcaption' ){
+        showContent_figcaption(event, project, projectNavigation, projectInfo, projectImg, closeButton);
        }
      });
 
@@ -497,7 +533,9 @@ $(window).load(function() {
        + '<div class="clock-box"><span>%M</span>m </div>'
        + '<div class="clock-box"><span>%S</span>s </div>'
        ));
-  });
+  });
+
+
 /* ------------------------------------- */
 /* Subscribe Form   ................... */
 /* ------------------------------------- */
