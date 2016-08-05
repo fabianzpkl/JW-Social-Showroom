@@ -93,11 +93,11 @@ button.submit {
 }
 .logo2 {
   position: absolute;
-      bottom: 25px;
-      left: -320px;
-      right: 0;
-      margin: 0 auto;
-      width: 210px;
+  bottom: 25px;
+  left: -390px;
+  right: 0;
+  margin: 0 auto;
+  width: 295px;
 }
 .pswp__button {
   width: 44px;
