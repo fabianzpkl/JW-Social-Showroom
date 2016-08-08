@@ -50,7 +50,7 @@
               <li class="item col-sm-8 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-01.jpg" alt="This is my work" class="img-responsive" />
+                  <img src="img/GloriaSantana.JPG" alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -64,7 +64,7 @@
               <li class="item col-sm-4 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-02.jpg"  alt="This is my work" class="img-responsive" />
+                  <img src="img/LuxuryCards.jpg"  alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -78,7 +78,7 @@
               <li class="item col-sm-4 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-03.jpg"  alt="This is my work" class="img-responsive" />
+                  <img src="img/CindyG.jpg"  alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -92,7 +92,7 @@
               <li class="item col-sm-4 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-04.jpg"  alt="This is my work" class="img-responsive" />
+                  <img src="img/PaulaEscobar.jpg"  alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -106,7 +106,7 @@
               <li class="item col-sm-8 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-05.jpg"  alt="This is my work" class="img-responsive" />
+                  <img src="img/Artevision.jpg"  alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -120,7 +120,7 @@
               <li class="item col-sm-4 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-06.jpg"  alt="This is my work" class="img img-responsive" />
+                  <img src="img/GladysCastaneda.jpg"  alt="This is my work" class="img img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -135,7 +135,7 @@
               <li class="item col-sm-8 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-01.jpg" alt="This is my work" class="img-responsive" />
+                  <img src="img/FCProd.jpg" alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -149,7 +149,7 @@
               <li class="item col-sm-4 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-02.jpg"  alt="This is my work" class="img-responsive" />
+                  <img src="img/AdrianaValois.jpg"  alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -163,7 +163,7 @@
               <li class="item col-sm-4 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-03.jpg"  alt="This is my work" class="img-responsive" />
+                  <img src="img/Montecarlo.jpg"  alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -191,7 +191,7 @@
               <li class="item col-sm-8 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-05.jpg"  alt="This is my work" class="img-responsive" />
+                  <img src="img/DJDiegoSanchez.jpg"  alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -205,7 +205,7 @@
               <li class="item col-sm-4 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-06.jpg"  alt="This is my work" class="img img-responsive" />
+                  <img src="img/violines.jpg"  alt="This is my work" class="img img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -220,7 +220,7 @@
               <li class="item col-sm-8 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-01.jpg" alt="This is my work" class="img-responsive" />
+                  <img src="img/DJNicolasR.jpg" alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -234,7 +234,7 @@
               <li class="item col-sm-4 col-xs-12">
                 <figure>
                   <!-- Your picture -->
-                  <img src="img/foto-02.jpg"  alt="This is my work" class="img-responsive" />
+                  <img src="img/FloresExito.jpg"  alt="This is my work" class="img-responsive" />
                   <!-- Picture's description below this one -->
                   <figcaption class="caption">
                     <div class="photo-details">
@@ -411,6 +411,18 @@ Hoy Rosa Clará es una empresa consolidada, en constante expansión, con presenc
               </div>
               <div class="client col-sm-3 col-xs-3">
                 <img src="img/client14.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client16.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client17.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client18.png" alt="client">
+              </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client19.jpg" alt="client">
               </div>
             </div>
           </div>

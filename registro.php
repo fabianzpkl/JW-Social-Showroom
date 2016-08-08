@@ -42,7 +42,7 @@
 		// envio de correo al organizador 
 		/*$mailrelay->mailrelay_send('comunicaciones@campocomunicacionintegral.com','Marriott Cali','Hay un nuevo participante para el JW Social Showroom'.$_POST['name_user'],$template,$consignacion_atleta);*/
 
-		$mailrelay->mailrelay_send('nelson.quirama@pklagencia.com','Marriott Cali','Hay un nuevo participante para el JW Social Showroom, '.$_POST['name_user'],$template,$consignacion_atleta);
+		$mailrelay->mailrelay_send('mercadeo.marriottcolombia@r-hr.com','JW Marriott','Hay un nuevo participante para el JW Social Showroom, '.$_POST['name_user'],$template,$consignacion_atleta);
 
 		$template_atleta = file_get_contents("mailrelay_template_header.php");
 

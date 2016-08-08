@@ -39,7 +39,8 @@
 											<table style="background:#111;" align="center" border="0" cellpadding="0" cellspacing="0" width="580">
 												<tbody>
 													<tr>
-														<td align="center" valign="top"><img alt="" src="http://eventos.theplacetobecolombia.com/img/logo.png" style="width: 100%" /></td>
+														<td align="center" valign="top"><img alt="" src="http://eventos.theplacetobecolombia.com/img/header_template_email.png" style="width: 100%" /></td>
+
 													</tr>
 												</tbody>
 											</table>
@@ -53,5 +54,5 @@
 											<table align="center" border="0" cellpadding="0" cellspacing="0" width="580">
 												<tbody>
 													<tr>
-														<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#434343; font-weight:bold;" valign="top">
+														<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#434343;" valign="top">
 															<section class="mobile_text_3">

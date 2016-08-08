@@ -32,7 +32,7 @@
 														<td>&nbsp;</td>
 													</tr>
 													<tr>
-														<td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#fff; font-weight:bold;" valign="middle">
+														<!--<td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#fff; font-weight:bold;" valign="middle">
 
 															JW MARRIOTT Bogotá<br>
 
@@ -40,7 +40,8 @@
 
 															+57 (1) 4816000
 
-														</td>
+														</td>-->
+														<td align="center" valign="top"><img alt="" src="http://eventos.theplacetobecolombia.com/img/footer_template_email.png" style="width: 100%" /></td>
 													</tr>
 													<tr>
 														<td>&nbsp;</td>
