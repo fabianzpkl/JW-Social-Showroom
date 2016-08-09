@@ -97,7 +97,13 @@ button.submit {
   left: -390px;
   right: 0;
   margin: 0 auto;
-  width: 295px;
+  width: 350px;
+}
+.logo2 img {
+  display: inline-block;
+  vertical-align: top;
+  width: 40%;
+  margin: 0 10px;
 }
 .pswp__button {
   width: 44px;

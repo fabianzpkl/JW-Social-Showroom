@@ -35,7 +35,9 @@
             </ul>
 
             <div class="logo2">
+              <a href="http://www.zankyou.com/" target="_blank"><img src="img/zankyou.png"></a>
               <img src="img/logo-marriot.png">
+
             </div>
 
           </div>
