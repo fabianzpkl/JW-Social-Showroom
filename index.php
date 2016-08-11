@@ -20,8 +20,11 @@
 
           <div id="home" class="gradient">
             <!-- Your logo -->
-  			    <img src="img/logo.png" alt="" class="main-logo" />
-            <a href="" class="btn_scroll" id="ir_a_inscribirese">Quiero Participar</a>
+            <figure class="main-logo">
+              <img src="img/logo.png" alt=""/>
+              <a href="" class="btn_scroll" id="ir_a_inscribirese">Quiero Participar</a>
+            </figure>
+  			    
 
             <!--<div class="h-content">
               <h1>Discussing future trends in e-commerce and digital.</h1>
@@ -641,5 +644,15 @@ Hoy Rosa Clará es una empresa consolidada, en constante expansión, con presenc
         });
 
       </script>
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36937803-7', 'auto');
+  ga('send', 'pageview');
+
+</script>
   </body>
 </html>
