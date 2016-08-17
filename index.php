@@ -443,6 +443,9 @@ Hoy Rosa Clará es una empresa consolidada, en constante expansión, con presenc
               <div class="client col-sm-3 col-xs-3">
                 <img src="img/client19.png" alt="client">
               </div>
+              <div class="client col-sm-3 col-xs-3">
+                <img src="img/client20.png" alt="client">
+              </div>
             </div>
           </div>
 
